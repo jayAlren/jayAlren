@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayAlren
-- 👀 I’m interested in C#, SQL, PHP, HTML, CSS, JavaScript
-- 🌱 I’m currently learning react.js, Responsive Web Design
+- 👀 I’m interested in C#, SQL, PHP, HTML, CSS, JavaScript, Angular, ASP.NET Core MVC
+- 🌱 I’m currently learning react.js, Responsive Web Design, Angular, ASP.NET Core MVC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via Mail
 - 🌐 Visit my site https://jayalren.super.site/
